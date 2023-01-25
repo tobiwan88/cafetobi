@@ -1,0 +1,13 @@
+/* karma-regular - latin */
+@font-face {
+  font-family: 'Karma';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../webfonts/karma-v16-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../webfonts/karma-v16-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../webfonts/karma-v16-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../webfonts/karma-v16-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../webfonts/karma-v16-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../webfonts/karma-v16-latin-regular.svg#Karma') format('svg'); /* Legacy iOS */
+}
